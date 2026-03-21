@@ -20,8 +20,6 @@ Contains hardware abstraction modules:
 - `SERVO` – Servo control
 - `TRACK` – Line tracking sensor management
 
-`user/`  
-Contains user-level application logic, including main program and interaction between modules.
 
 ## Features
 - Line tracking using infrared sensors with automatic correction and turning.
