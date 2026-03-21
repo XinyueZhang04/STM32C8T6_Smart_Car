@@ -1,0 +1,15 @@
+# Keil / STM32 输出文件
+Objects/
+*.axf
+*.o
+*.d
+*.crf
+*.lnp
+*.htm
+*.map
+*.dep
+
+# 临时文件
+*.bak
+*.tmp
+*.log
