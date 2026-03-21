@@ -35,3 +35,4 @@ Contains hardware abstraction modules:
 4. The car automatically detects obstacles in front and reroutes using ultrasonic sensors.
 5. Check LEDs and OLED for real-time status updates.
 6. If you want to take a closer look at the project files, you can open the **STM32C8T6_Smart_Car_Module_Function_Explanation(Chinese Version)** document. But that it is in Chinese.
+7. Bluetooth Control
