@@ -36,3 +36,4 @@ Contains hardware abstraction modules:
 5. Check LEDs and OLED for real-time status updates.
 6. Bluetooth Control
 7. If you want to take a closer look at the project files, you can open the **STM32C8T6_Smart_Car_Module_Function_Explanation(Chinese Version)** document. But that it is in Chinese.
+8. You can also view the actual demo video in the files.
